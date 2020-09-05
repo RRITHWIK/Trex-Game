@@ -70,10 +70,10 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  background("lightpink");
+  background("lightblue");
   text("Score: "+ score, 500,50);
 
-console.log("hello");
+
   
 
 
